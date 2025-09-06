@@ -85,7 +85,7 @@
     "typedoc": "^0.16.9",
     "typedoc-plugin-no-inherit": "^1.1.10",
     "typedoc-plugin-nojekyll": "^1.0.1",
-    "typescript": "^3.7.3"
+    "typescript": "^5.9.2"
   },
   "files": [
     "dist",
